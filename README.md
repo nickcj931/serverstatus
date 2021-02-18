@@ -1,0 +1,2 @@
+# serverstatus
+Server status page
