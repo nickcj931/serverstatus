@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Valheim Server status
 
-You can use the [editor on GitHub](https://github.com/nickcj931/serverstatus/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Banner for Pazenco](https://cdn.battlemetrics.com/b/horizontal500x80px/10205744.png?foreground=%23EEEEEE&background=%23222222&lines=%23333333&linkColor=%231185ec&chartColor=%23FF0700)](https://www.battlemetrics.com/servers/valheim/10205744)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Server hosted on unraid details below:
 ```
+Server name: Pazenco
+World: Paznco
+password: checkwith admin
+IP: 86.150.188.1:2457
+```
+Server Stats - [Battlemetrics - Pazenco](https://www.battlemetrics.com/servers/valheim/10205744)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Server needs a reboot when Devs release server side patches.
 
-### Jekyll Themes
+- [Valheim Dedicated Server Patch notes](https://steamdb.info/app/896660/patchnotes/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nickcj931/serverstatus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
